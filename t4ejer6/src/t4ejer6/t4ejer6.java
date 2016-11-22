@@ -1,3 +1,6 @@
+/*
+ * Introducir frase y decir cuántas vocales, cuántos números y cuántas consonantes hay
+ */
 package t4ejer6;
 
 import java.util.Scanner;
@@ -28,11 +31,5 @@ public class t4ejer6 {
 		System.out.println("Las vocales introducidas son: " + vocal);
 		System.out.println("Los números introducidos son: " + num);
 		System.out.println("Las consonantes introducidas son: " + conso);
-		
-		
-		
-		
-		
 	}
-
 }

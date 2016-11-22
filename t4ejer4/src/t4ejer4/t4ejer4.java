@@ -1,3 +1,7 @@
+/*
+ * Imprimir todo en mayúsculas o en minúsculas
+ */
+
 package t4ejer4;
 
 import java.util.Scanner;

@@ -1,3 +1,6 @@
+/*
+ * Introducir frase y palabra. Devuelve la posición. Si no la encuentra que devuelva 0
+ */
 package t4ejer3;
 
 import java.util.Scanner;
@@ -18,9 +21,10 @@ public class t4ejer3 {
 		
 		n=frase.indexOf(palabra);
 		if(n == -1){
-			System.out.println("La palabra no existe");
 			n=0;
-		}
+			System.out.println(n);
+			
+		}else
 		System.out.println("La posición es " + n);
 			
 

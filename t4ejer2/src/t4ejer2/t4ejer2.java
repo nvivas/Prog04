@@ -1,3 +1,7 @@
+/*
+ * Buscar cuantas mayúsculas y minusculas tiene
+ */
+
 package t4ejer2;
 
 import java.util.Scanner;
